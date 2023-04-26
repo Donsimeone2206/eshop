@@ -2,9 +2,6 @@
 
 This project is an Amazon Clone e-commerce application built with React, React-Context-Api, and Firebase. It features user authentication, and real-time database functionality. The primary purpose of this project is to serve as a learning resource for developers interested in building e-commerce applications using modern web technologies.
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Table of Contents
 
 Features
@@ -42,10 +39,3 @@ Open a Pull Request
 
 The Amazon Clone project is inspired by the popular e-commerce platform, Amazon.
 This project is created for educational purposes only and is not affiliated with the official Amazon website or company.
-
-
-
-
-
-
-
